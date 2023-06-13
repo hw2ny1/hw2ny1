@@ -7,6 +7,10 @@
     <h3>HISTORY</h3>
 	<p>
         SSAFY 9기 ~ing
+        <br>
+        <br>
+        <br>
+        <br>
     </p>
 </div>
 
