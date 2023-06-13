@@ -11,14 +11,10 @@
         <br>
         <br>
         <br>
+        <br>
+        <br>
     </p>
 </div>
-
-
-
-
-
-
 
 <div align="center">
 	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hw2ny1&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
@@ -32,8 +28,9 @@
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br>
-	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
 
 
 
