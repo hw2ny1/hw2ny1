@@ -1,16 +1,13 @@
 # :gear: SHIN SEONG HWAN
 
 <div align="center">
-    <div align="left">
-       	<p >
-            부경대학교 물리학과 졸업</br>
-   			삼성 청년 SW 아카데미 (SSAFY) 9기
-        </p>
-	</div>
     <div>
         <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hw2ny1"/>
+	</div>
+	<div>
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hw2ny1&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
     </div>
+</div>
 
 
 
@@ -19,12 +16,6 @@
 
 
 
-
-
-
-
-
-  
 
 ### :mag_right: SKILLS
 
