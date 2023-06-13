@@ -6,8 +6,8 @@
 	</div>
     <h3>HISTORY</h3>
 	<p>
-        SSAFY 9기 ~ing
-        <br>
+        2022.08 부경대학교 물리학과 졸업
+        2023.01 SSAFY 9기 ~ing
         <br>
         <br>
         <br>
