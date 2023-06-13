@@ -9,9 +9,9 @@
 	</div>
     <div>
         <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hw2ny1"/>
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hw2ny1&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
     </div>
 
-   
 
 
 
@@ -22,7 +22,9 @@
 
 
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hw2ny1&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+
+
+  
 
 ### :mag_right: SKILLS
 
@@ -41,6 +43,5 @@
 <div>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhw2ny1&count_bg=%23FFC7C6&title_bg=%23FF9999&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
 </div>
-
 
 
