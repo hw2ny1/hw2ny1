@@ -5,7 +5,7 @@
         <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hw2ny1"/>
 	</div>
     <h3>HISTORY</h3>
-	<p>
+	<div align="left">
         2022.08 부경대학교 물리학과 졸업<br>
         2023.01 SSAFY 9기 ~ing<br>
         <br>
@@ -13,7 +13,7 @@
         <br>
         <br>
         <br>
-    </p>
+    </div>
 </div>
 <div align="center">
 	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hw2ny1&layout=compact&theme=vue-dark"/>
