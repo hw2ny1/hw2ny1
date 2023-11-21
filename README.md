@@ -7,9 +7,8 @@
     <h3>HISTORY</h3>
 	<div align="left">
         22.08 부경대학교 물리학과 졸업<br>
-        23.01 SSAFY 9기
-	23.11 DDI 인턴
-        <br>
+        23.01 SSAFY 9기<br>
+	23.11 DDI 인턴<br>
         <br>
         <br>
         <br>
